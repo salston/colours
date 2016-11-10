@@ -1,0 +1,30 @@
+div {
+    width: 20%;
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+}
+
+p {
+	line-height: 500px;
+}
+
+div.box1 {
+	background-color: #774151
+}
+
+div.box2 {
+	background-color: #688C4F
+}
+
+div.box3 {
+	background-color: #903B2A
+}
+
+div.box4 {
+	background-color: #E0CB7C
+}
+
+div.box5 {
+	background-color: #5C95A5
+}
